@@ -1,0 +1,21 @@
+p {
+    font-family: "Courier", Courier, monospace;
+    color: #0c055b;
+}
+
+h1 {
+    font-family: "Courier New", Courier, monospace;
+    color: #0c055b;
+}
+
+body {
+    background-color: #ffffe0;
+}
+
+a:link {
+    color: #3ff3ff;
+}
+
+a:visited {
+    color: #dbbaff;
+}

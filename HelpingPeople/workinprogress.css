@@ -1,0 +1,64 @@
+body {
+    background-color: #083B66;
+    color: #FF8C00;
+    font-family: courier;
+}
+
+h1 {
+
+    text-align: center;
+    font-size: 48px;
+}
+
+p {
+    font-size: 20px;
+}
+
+a {
+    color: red;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+
+.topnav {
+    background-color: #FF8C00;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: #FFF;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #083B66;
+    color: #FF8C00;
+}
+
+.topnav a:active {
+    background-color: white;
+    color: #00562B;
+}
+
+.btn {
+    background-color: #FF8C00;
+    color: #083B66;
+}
+.DIEGOISADAMNBITCH {
+    font-size: 14px;
+}
